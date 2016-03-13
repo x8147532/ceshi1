@@ -13,13 +13,14 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+  <!--
 	<repositories>
 		<repository>
 			<id>my</id>
 			<name>my</name>
 			<url>http://127.0.0.1:8081/nexus/content/repositories/central/</url>
 		</repository>
-	</repositories>
+	</repositories>-->
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
